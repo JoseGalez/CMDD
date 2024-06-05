@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.Form1.resources
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Guia10\Guia10\bin\Debug\Guia10.exe.config
+C:\Users\Alumno\source\repos\Guia10\Guia10\bin\Debug\Guia10.exe
+C:\Users\Alumno\source\repos\Guia10\Guia10\bin\Debug\Guia10.pdb
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.exe
+C:\Users\Alumno\source\repos\Guia10\Guia10\obj\Debug\Guia10.pdb
