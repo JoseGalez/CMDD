@@ -1,0 +1,13 @@
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\bin\Debug\ControlDeEmbarque.exe.config
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\bin\Debug\ControlDeEmbarque.exe
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\bin\Debug\ControlDeEmbarque.pdb
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.Form1.resources
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.FormAgregar.resources
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.Properties.Resources.resources
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.exe
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.pdb
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.FormVerListado.resources
+C:\Users\Alumno\Documents\reposJ\CMDD\miproyecto1\ControlDeEmbarque\ControlDeEmbarque\obj\Debug\ControlDeEmbarque.FormBuscar.resources
